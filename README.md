@@ -2058,6 +2058,7 @@ Client, Web and Password Attacks
         pip install couchdb
         pip install pbkdf2
         pip install ipcalc
+        pip install pymongo
         python nosqlmap.py
         ```
 
